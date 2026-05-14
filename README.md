@@ -1,1 +1,10 @@
 # Reconhecimento_Facial
+
+
+
+Api url:
+https://npvrycqwezldkgunlqgq.supabase.co/rest/v1/
+
+anon public:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5wdnJ5Y3F3ZXpsZGtndW5scWdxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg1ODkzNzUsImV4cCI6MjA5NDE2NTM3NX0.1E1aTACzuuqjTzw1zuiMWboxlGOqYm-Xkanw3nTqTP4
+
